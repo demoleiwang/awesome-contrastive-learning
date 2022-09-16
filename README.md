@@ -2,6 +2,9 @@
 
 This repo is a collection of AWESOME things about contrastive learning, including papers, code, etc. Feel free to star and fork.
 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-contrastive-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-1-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+
+
 <!-- 
 1. **[[]]()** x. x. [[code](x)] 
 
